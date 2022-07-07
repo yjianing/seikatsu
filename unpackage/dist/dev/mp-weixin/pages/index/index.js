@@ -392,7 +392,7 @@ var _default = { data: function data() {return { amapPlugin: null, //初始key
             icon: 'success', //将值设置为 success 或者 ''
             duration: 2000 //持续时间为 2秒
           });
-        }, 10000);
+        }, 1000);
       } else {
         console.log('筛选失败');
         uni.showModal({
