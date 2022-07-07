@@ -1,0 +1,14 @@
+
+.Location {
+	width: 70%;
+	margin: 0 auto;
+	padding: 100rpx 0;
+}
+.img {
+	width: 10%;
+	height: 40rpx;
+}
+.text {
+	margin-left: 20rpx;
+}
+

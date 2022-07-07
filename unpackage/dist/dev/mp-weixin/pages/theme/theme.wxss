@@ -1,0 +1,38 @@
+
+.button {
+	width: 70%;
+	margin: 0 auto;
+	display: flex;
+	flex-direction: row;
+}
+.abc {
+	width: 23%;
+	height: 95rpx;
+	text-align: center;
+	line-height: 100rpx;
+	background: red;
+	border-radius: 50%;
+	margin: 0 20rpx;
+}
+.drink {
+	width: 23%;
+	height: 95rpx;
+	text-align: center;
+	line-height: 100rpx;
+	background: #007AFF;
+	border-radius: 50%;
+	margin: 0 20rpx;
+}
+.list {
+	width: 85%;
+	height: 500rpx;
+	border: 1px solid red;
+	margin: 40rpx auto;
+}
+.take {
+	display: none;
+}
+.play {
+	display: block;
+}
+

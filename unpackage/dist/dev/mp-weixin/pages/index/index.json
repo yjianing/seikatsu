@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "随机筛选·吃喝玩购",
+  "usingComponents": {
+    "i-location": "/pages/Location/Location"
+  }
+}

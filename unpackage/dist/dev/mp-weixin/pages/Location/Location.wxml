@@ -1,0 +1,1 @@
+<view class="Location"><image class="img" src="../../static/diz.png"></image><text class="text">{{addressName}}</text></view>

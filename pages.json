@@ -1,0 +1,26 @@
+{
+	"pages": [{
+		"path": "pages/index/index",
+		"style": {
+			"navigationBarTitleText": "随机筛选·吃喝玩购"
+		}
+	}, {
+		"path": "pages/Location/Location",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/theme/theme",
+		"style": {
+			"navigationBarTitleText": "",
+			"enablePullDownRefresh": false
+		}
+	}],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "随机筛选·吃喝玩购",
+		"navigationBarBackgroundColor": "#BDE7FF",
+		"backgroundColor": "#bee7ff"
+	}
+}
